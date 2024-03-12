@@ -50,4 +50,4 @@ client.on('ready', async () => {
 });
 
 const mySecret = process.env['TOKEN'];
-client.login("OTg3NTgyMTkwNzMwNzUyMDcw.Gtfr4c.XuUkrsQMqWcHQKV_-dnEqUYNjb7L_djNucRm3o");
+client.login("MTE5Mzk3ODQ2MTgzNzA4NjcyMA.GOurBx.5DtTwP_JF09qBf4HG4_26uCmcQWfzXeMsNgQrY");
