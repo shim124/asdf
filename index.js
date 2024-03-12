@@ -48,4 +48,4 @@ client.on('ready', async () => {
     }
   }, 1000); // Update every second
 });
-client.login(process.env['TOKEN']);
+client.login("OTg3NTgyMTkwNzMwNzUyMDcw.GM51wH");
