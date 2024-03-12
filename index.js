@@ -24,9 +24,9 @@ client.on('ready', async () => {
     .setApplicationId('1196606386470141962')
     .setType('STREAMING')
     .setURL('https://www.youtube.com/watch?v=dQw4w9WgXcQ') //Must be a youtube video link 
-    .setState('24H Online')
+    .setState('Subscribe Lobsterman')
     .setName('Shim')
-    .setDetails(`You Don't have MoM [${formatTime()}]`)
+    .setDetails(`24Hours Online[${formatTime()}]`)
     .setStartTimestamp(Date.now())
     .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1203073228059189300/1217133707803230289/f5abba1882742bf6.gif?ex=6602eb19&is=65f07619&hm=5490b502fc2e908485ca9f411467a532e0ec8f8feea16784b1feb89fd00b41c0&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('니엄') //Text when you hover the Large image
