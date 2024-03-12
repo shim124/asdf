@@ -48,6 +48,4 @@ client.on('ready', async () => {
     }
   }, 1000); // Update every second
 });
-
-const mySecret = process.env['Token'];
-client.login(process.env['Token']);
+client.login(process.env['TOKEN']);
